@@ -9,3 +9,6 @@ Small shell in C
 6. Support input and output redirection
 7. Support running commands in foreground and background processes
 8. Implement custom handlers for 2 signals, **SIGINT** and **SIGTSTP**
+
+# contact
+If you want to change or upgrade this project, you can contact me by email bachns.dev@gmail.com
